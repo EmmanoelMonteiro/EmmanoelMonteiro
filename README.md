@@ -1,6 +1,6 @@
 # Olá, me chamo Emmanoel Monteiro !  👋
 
-- 🔭 Trabalho atualmente na Pacto Mais com líder dos times de desenvolvimento e operações;
+- 🔭 Trabalho atualmente na Pacto Mais liderando os times de desenvolvimento e operações;
 - 🌱 Estou direcionando meus estudos neste momento em Liderança, JAVA, Cloud(AWS), DevOps e Inteligência Artificial (IA);
 
 ## Contatos:
