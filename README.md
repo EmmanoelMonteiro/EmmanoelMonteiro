@@ -1,7 +1,7 @@
 # Olá, me chamo Emmanoel Monteiro !  👋
 
 - 🔭 Trabalho atualmente na Pacto Mais com líder dos times de desenvolvimento e operações;
-- 🌱 Estou direcionando meus estudos neste momento em Liderança, JAVA, CLOUD(AWS), DevOps e Inteligência Artificial (IA); 
+- 🌱 Estou direcionando meus estudos neste momento em Liderança, JAVA, Cloud(AWS), DevOps e Inteligência Artificial (IA); 
  
 <!--
 **EmmanoelMonteiro/EmmanoelMonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
