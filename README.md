@@ -1,7 +1,7 @@
 # Olá, me chamo Emmanoel Monteiro !  👋
 
 - :computer: Docente da Universitário Mauricio de Nassau e lider de desenvolvimento de sistemas e operações na Pacto Mais;
-- :books: Interesses nos temas de Liderança, JAVA, Cloud(AWS), arquitetura de microsserviços, DevOps e Inteligência Artificial (IA);
+- :books: Interesses nos temas de Liderança, JAVA, Cloud(AWS), Arquitetura de Microsserviços, DevOps e Inteligência Artificial (IA);
 
 ## Contatos:
 
