@@ -1,7 +1,7 @@
 # Olá, me chamo Emmanoel Monteiro !  👋
 
-- :computer: Atualmente estou como docente da Universitário Mauricio e como lider de desenvolvimento de sistemas e operações na Pacto Mais;
-- :books: Estou direcionando meus estudos neste momento em Liderança, JAVA, Cloud(AWS), DevOps e Inteligência Artificial (IA);
+- :computer: Docente da Universitário Mauricio de Nassau e lider de desenvolvimento de sistemas e operações na Pacto Mais;
+- :books: Interesses nos temas de Liderança, JAVA, Cloud(AWS), arquitetura de microsserviços, DevOps e Inteligência Artificial (IA);
 
 ## Contatos:
 
