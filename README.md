@@ -1,6 +1,6 @@
 # Olá, me chamo Emmanoel Monteiro !  👋
 
-- :computer: nteresses nos temas de Liderança, JAVA, Cloud(AWS), Arquitetura de Microsserviços, DevOps e Inteligência Artificial (IA);
+- :computer: Interesses nos temas de Liderança, JAVA, Cloud(AWS), Arquitetura de Microsserviços, DevOps e Inteligência Artificial (IA);
 
 ## Contatos:
 
