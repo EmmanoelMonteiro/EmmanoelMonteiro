@@ -1,14 +1,13 @@
 # Olá, me chamo Emmanoel Monteiro !  👋
 
-- :computer: Docente da Universitário Mauricio de Nassau e lider de desenvolvimento de sistemas e operações na Pacto Mais;
-- :books: Interesses nos temas de Liderança, JAVA, Cloud(AWS), Arquitetura de Microsserviços, DevOps e Inteligência Artificial (IA);
+- :computer: nteresses nos temas de Liderança, JAVA, Cloud(AWS), Arquitetura de Microsserviços, DevOps e Inteligência Artificial (IA);
 
 ## Contatos:
 
 <div>
 <a href="https://instagram.com/emmanoelmonteiro" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:emmanoeljr@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/emmanoel-monteiro-de-sousa-junior-22b2025a" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/emmanoelmonteiro" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
  
 <!--
